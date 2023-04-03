@@ -38,8 +38,6 @@ https://en.wikipedia.org/wiki/Candlestick_pattern
 #### The Candlestick Course 1st Edition by Steve Nison  
 ![alt text](https://user-images.githubusercontent.com/4218171/136717544-527e2438-70f3-4c9a-80e1-a5f8d4113066.png)  
 
-## Author  
-### * Tin Hang  
 
 ## 🔴 Candlestick chart is accurate based on the prices: the open, low, high, and close prices.  However, candlestick pattern to predict future price is not very.  
 ## 🔴 Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.  
